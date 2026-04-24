@@ -1,0 +1,6 @@
+flask
+yagmail
+reportlab
+numpy
+LOGGING
+
